@@ -35,7 +35,7 @@ beautifulsoup4==4.5.3
 pdfplumber==0.5.8
 captcha==0.3
 pdf2image==1.0.0
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 flask-restplus==0.12.1
 future
 pyyaml
