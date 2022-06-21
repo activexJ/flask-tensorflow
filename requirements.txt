@@ -1,5 +1,5 @@
 configparser==3.5.0
-numpy==1.16.1
+numpy==1.22.0
 scipy==0.19.1
 docutils==0.14
 Flask==0.12.2
